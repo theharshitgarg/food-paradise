@@ -1,1 +1,1 @@
-web: gunicorn food_paradise.wsgi
+web: gunicorn foodie_paradise.wsgi
