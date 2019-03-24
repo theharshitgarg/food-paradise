@@ -27,7 +27,7 @@ SECRET_KEY = 'f-&xe=&h#&u3m*cczxon5$(gz12ni)a5t_ikmvh^5rmu@1+ef+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['food-theparadise.herokuapp.com']
 
 
 # Application definition
